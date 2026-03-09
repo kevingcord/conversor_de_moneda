@@ -1,8 +1,8 @@
-# Conversor de Moneda en Java 💱
+# Conversor de Moneda en Java
 
 Proyecto desarrollado en Java que permite convertir diferentes monedas utilizando una API de tasas de cambio en tiempo real.
 
-## 📌 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 * Java
 * HttpClient
@@ -13,7 +13,7 @@ Proyecto desarrollado en Java que permite convertir diferentes monedas utilizand
 
 ---
 
-# 🚀 Descripción
+# Descripción
 
 Este proyecto consume la API de ExchangeRate para obtener las tasas de cambio actualizadas y permite al usuario realizar conversiones entre diferentes monedas desde la consola.
 
@@ -27,7 +27,7 @@ El programa realiza:
 
 ---
 
-# 🌐 API utilizada
+# API utilizada
 
 ExchangeRate API
 
@@ -37,7 +37,7 @@ https://v6.exchangerate-api.com/v6/TU_API_KEY/latest/USD
 
 ---
 
-# 💰 Monedas soportadas
+# Monedas soportadas
 
 * USD — Dólar estadounidense
 * ARS — Peso argentino
@@ -46,7 +46,7 @@ https://v6.exchangerate-api.com/v6/TU_API_KEY/latest/USD
 
 ---
 
-# 📂 Estructura del proyecto
+# Estructura del proyecto
 
 ```
 conversor_de_moneda
@@ -67,7 +67,7 @@ conversor_de_moneda
 
 ---
 
-# ▶️ Cómo ejecutar el proyecto
+# Cómo ejecutar el proyecto
 
 1. Clonar repositorio
 
@@ -85,7 +85,7 @@ Principal.java
 
 ---
 
-# 📊 Ejemplo de uso
+# Ejemplo de uso
 
 ```
 Sea bienvenido/a al Conversor de Moneda
@@ -103,7 +103,7 @@ El usuario ingresa el monto y el sistema devuelve el valor convertido.
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 Proyecto desarrollado como práctica de consumo de API y manejo de JSON en Java.
 
